@@ -27,20 +27,20 @@
 ## 🎯 Примеры
 
 
-# Исходный промпт (28 токенов)
+### Исходный промпт (28 токенов)
 "Write a function that adds two integers and returns their sum"
 
-# DenseLang (11 токенов)
+### DenseLang (11 токенов)
 ```python
 func:add(a:int,b:int)->int=a+b
 ```
 
-# DevOps: 8 → 3 токена  
+### DevOps: 8 → 3 токена  
 ```bash
 k8s:ps|prod|err
 ```
 
-# Text: 45 → 18 токенов
+### Text: 45 → 18 токенов
 ```text
 impl:auth+jwt|user+role|db:psql
 ```
