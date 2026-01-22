@@ -44,3 +44,39 @@ k8s:ps|prod|err
 ```text
 impl:auth+jwt|user+role|db:psql
 ```
+
+Не большой пример для работы с контентом (даже маленькая модель справиться!):
+```text
+Role: [Твоя роль] |
+Industry: [Ниша] |
+Product: [Что продаешь] |
+Target: [Твой клиент] |
+USP: [Твоя фишка] |
+Tone: Expert, Provocative, No-fluff.
+
+task:content_plan|
+plat:linkedin|
+dur:14d|
+goal:leads|
+funnel:aida|
+mix:edu(40%)+case(30%)+offer(30%)|
+fmt:table(day,post_type,hook,cta)
+```
+
+Пример:
+```
+Role: Backend Developer |
+Industry: IT / Software Development |
+Product: Услуги backend-разработчика (архитектура, оптимизация, интеграции, API) |
+Target: Стартапы и малый бизнес, которым нужен сильный разработчик без найма в штат |
+USP: Помогаю запускать и ускорять backend-сервисы, сокращая время отклика и расходы на инфраструктуру за счет грамотной архитектуры и оптимизации |
+Tone: Expert, Provocative, No-fluff.
+
+task:content_plan|
+plat:linkedin|
+dur:14d|
+goal:leads|
+funnel:aida|
+mix:edu(40%)+case(30%)+offer(30%)|
+fmt:table(day,post_type,hook,cta)
+```
